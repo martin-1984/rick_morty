@@ -20,3 +20,10 @@ cd rick_morty
 flutter pub get
 flutter run
 ```
+
+### 2️⃣ **Ejecutar Flutter**
+
+```sh
+flutter pub get
+flutter run
+```
